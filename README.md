@@ -2,6 +2,9 @@
 <h3 align="center">A 20 years old Self-taught, passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l0ser8228" alt="l0ser8228" /> </p>
+<p align="center">
+  <a href="https://discord.gg/fQeGHUsb2U">
+    <img alt="discord" src="https://img.shields.io/discord/730998659008823296.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"/>
 
   <img align="right" alt="GIF" src="https://github.com/L0SER8228/L0SER8228/blob/master/code.gif?raw=true" width="400" height="300" />
 
