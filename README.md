@@ -5,6 +5,8 @@
 
   <img align="right" alt="GIF" src="https://github.com/L0SER8228/L0SER8228/blob/master/code.gif?raw=true" width="400" height="300" />
 
+- 🎮 I’m best gamer and **killer, join and enjoy with us.**
+
 - 🔭 I’m currently working on **Discord Bots**
 
 - 🌱 I’m currently learning **discord.js**
