@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi , I'm Ahmad Shkour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="center">A 20 years old Self-taught, passionate frontend developer from India</h3>
+<h3 align="center">20 years of learning programming and discovering a scientist GITHUB and iam from JORDAN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l0ser8228" alt="l0ser8228" /> </p>
 
