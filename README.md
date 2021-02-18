@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **discord.js**
 
-- ⚡ Fun fact **My name is L0SER,but actually I'm not a LOSER.**
+- ⚡ Fun fact **My name is Ahmad Shkour,but actually I'm KILLER.**
 
 
 <h3 align="left">Connect with me:</h3>
