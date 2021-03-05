@@ -43,7 +43,7 @@
 </p>
 
 </p>
-<p align="right center">
+<p align="right">
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
