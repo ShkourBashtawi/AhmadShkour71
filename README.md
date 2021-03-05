@@ -3,9 +3,9 @@
 
 
 
- <h2> <img align="right" alt="GIF" src="https://github.com/L0SER8228/L0SER8228/blob/master/code.gif?raw=true" width="400" height="300" /> <h2>
+-  <img align="right" alt="GIF" src="https://github.com/L0SER8228/L0SER8228/blob/master/code.gif?raw=true" width="400" height="300" />
 
- -  <td><a href="https://discord.gg/fQeGHUsb2U"><b> 👾 Join and enjoy with us (Click Here)</b></a></td>
+-  <td><a href="https://discord.gg/fQeGHUsb2U"><b> 👾 Join and enjoy with us (Click Here)</b></a></td>
 
 - 🎮 I’m best gamer and **killer, join and enjoy with us.**
 
