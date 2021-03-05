@@ -41,7 +41,7 @@
 <p align="left">
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=AMTitan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <p>
-<p align="right">
+<p align="left">
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
 <p>
 
