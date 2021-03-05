@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi , I'm Ahmad Shkour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">I’m 20 years old I’m love learning programming and discovering a world GITHUB and iam from JORDAN</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l0ser8228" alt="l0ser8228" /> </p>
+
 
   <img align="right" alt="GIF" src="https://github.com/L0SER8228/L0SER8228/blob/master/code.gif?raw=true" width="400" height="300" />
 
@@ -32,6 +32,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=l0ser8228" alt="l0ser8228" /> 
 </p>
 
 
