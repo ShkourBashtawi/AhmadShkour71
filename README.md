@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/kxmEdJkZU2zWth5wym/giphy.gif" width="25px">  Hi , I'm Ahmad Shkour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi , I'm Ahmad Shkour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">I’m 20 years old I’m love learning programming and discovering a world GITHUB and iam from JORDAN</h3>
 
 
@@ -36,7 +36,6 @@
   <img alt="Views" src="https://komarev.com/ghpvc/?username=l0ser8228" alt="l0ser8228" /> 
 </p>
 
-
 <h2> 📈 My stats </h2>
 
 <p>
@@ -48,7 +47,7 @@
     <img style="width:0%" src="https://github-readme-stats.vercel.app/api?username=KINGMAN1996&show_icons=true&hide_title=true&theme=chartreuse-white"
 <p>
 
-<h2> WE ARE GAMERS <h2>
+<h2> <img src="https://media.giphy.com/media/kxmEdJkZU2zWth5wym/giphy.gif" width="25px">  WE ARE GAMERS <img src="https://media.giphy.com/media/kxmEdJkZU2zWth5wym/giphy.gif" width="25px"> <h2>
 
 <img src="https://cdn.discordapp.com/attachments/784595097807093793/809220939626709012/Lc6Ru3VHPL.jpg" alt="Discord Banner"/>
 
