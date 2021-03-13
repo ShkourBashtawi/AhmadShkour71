@@ -47,3 +47,5 @@
     <img style="width:0%" src="https://github-readme-stats.vercel.app/api?username=KINGMAN1996&show_icons=true&hide_title=true&theme=chartreuse-white"
 <p>
 
+<h2> My Discord Server <h2>
+[<img src="https://cdn.discordapp.com/icons/725447250376917053/a_37da894357dfde6694a7dac30c3c0f7a.gif?size=1024" alt="Discord Banner"/>](https://discord.gg/fQeGHUsb2U)
