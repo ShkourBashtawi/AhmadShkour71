@@ -48,4 +48,4 @@
 <p>
 
 <h2> My Discord Server <h2>
-[<img src="https://cdn.discordapp.com/icons/725447250376917053/a_37da894357dfde6694a7dac30c3c0f7a.gif?size=240" alt="Discord Banner"/>](https://discord.gg/fQeGHUsb2U)
+[<img src="https://cdn.discordapp.com/icons/725447250376917053/a_37da894357dfde6694a7dac30c3c0f7a.gif?size=360" alt="Discord Banner"/>](https://discord.gg/fQeGHUsb2U)
