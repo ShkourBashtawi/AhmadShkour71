@@ -48,10 +48,8 @@
     <img style="width:0%" src="https://github-readme-stats.vercel.app/api?username=KINGMAN1996&show_icons=true&hide_title=true&theme=chartreuse-white"
 <p>
 
-<h2> My Discord Server <h2>
--
-<td><a href="https://discord.gg/fQeGHUsb2U"><b> 👾 Join and enjoy with us (Click Here)</b></a></td>
--
+<h2> WE ARE GAMERS <h2>
+
 <img src="https://cdn.discordapp.com/attachments/784595097807093793/809220939626709012/Lc6Ru3VHPL.jpg" alt="Discord Banner"/>
--
+
 
