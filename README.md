@@ -44,6 +44,6 @@
 <p>
 <p>
 <p align="right">
-    <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=KINGMAN1996&show_icons=true&hide_title=true&theme=chartreuse-white"
+    <img style="width:0%" src="https://github-readme-stats.vercel.app/api?username=KINGMAN1996&show_icons=true&hide_title=true&theme=chartreuse-white"
 <p>
 
