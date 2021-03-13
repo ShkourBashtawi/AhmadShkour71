@@ -36,7 +36,7 @@
   <img alt="Views" src="https://komarev.com/ghpvc/?username=l0ser8228" alt="l0ser8228" /> 
 </p>
 
-<h2> 📈 My stats </h2>
+<h2> <img src="https://media.giphy.com/media/YSAWj6IxrmNDTY4IVM/giphy.gif" width="25px"> My stats <img src="https://media.giphy.com/media/YSAWj6IxrmNDTY4IVM/giphy.gif" width="25px"> </h2>
 
 <p>
 <p align="left">
