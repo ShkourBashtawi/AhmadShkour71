@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **My name is Ahmad Shkour , but actually I'm KILLER.**
 
-<img src="https://cdn.discordapp.com/attachments/799487185777590342/809228075724046437/Animated_GIF-source.gif"alt="Discord Banner"/>
+<img src="https://cdn.discordapp.com/attachments/799487185777590342/809228075724046437/Animated_GIF-source.gif" alt="Discord Banner"/>
 
 <h2> Things I code with </h2>
 <p>
