@@ -3,13 +3,13 @@
 
 <br/>
 <a href="https://www.instagram.com/delta_5621/">
-  <img align="center" alt="ahmadshkour0 Instagram" width="242px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="ahmadshkour0 Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://discord.com/users/552814506070507531">
-    <img align ="center" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align ="center" alt="Subodh's Discord" width="30px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
   <a href="https://twitter.com/Delta_562">
-    <img align ="center" alt="shkour71 Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align ="center" alt="shkour71 Twitter " width="30px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 
 ![](https://visitors-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr)
