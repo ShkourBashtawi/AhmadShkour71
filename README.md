@@ -16,7 +16,7 @@
 
 <br/>
 
-![Discord](https://discord.c99.nl/widget/theme-2/685868171755913293.png)
+![Discord](https://discord.c99.nl/widget/theme-3/685868171755913293.png)
 
 Hey, Ahmad Shkour, a Discord Bot Developer from JORDAN 🚀, ~~And a Weeb.~~
 
