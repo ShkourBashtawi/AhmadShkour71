@@ -51,7 +51,7 @@ Hey, Ahmad Shkour, a Discord Bot Developer from JORDAN 🚀, ~~And a Weeb.~~
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight">
 
 
 
