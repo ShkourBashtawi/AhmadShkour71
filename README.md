@@ -56,4 +56,3 @@ Hey, Ahmad Shkour, a Discord Bot Developer from JORDAN 🚀, ~~And a Weeb.~~
 
 
 
-
