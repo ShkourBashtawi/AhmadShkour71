@@ -6,8 +6,8 @@
 
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi , I'm Ahmad Shkour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="center">I’m 20 years old I’m love learning programming and discovering a world GITHUB and iam from JORDAN</h3>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi , I'm Khaled <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h3 align="center">I’m 38 years old I’m love learning programming and discovering a world GITHUB and iam from UAE</h3>
 
 
 
@@ -21,9 +21,8 @@
 
 - 🌱 I’m currently learning **discord.js**
 
-- ⚡ Fun fact **My name is Ahmad Shkour , but actually I'm KILLER.**
+- ⚡ Fun fact **My name is Khaled , but actually I'm KILLER.**
 
-<img src="https://cdn.discordapp.com/attachments/799487185777590342/809228075724046437/Animated_GIF-source.gif" alt="Discord Banner"/>
 
 <h2> Things I code with </h2>
 <p>
@@ -54,5 +53,3 @@
 <p>
 
 <h2> <img src="https://media.giphy.com/media/kxmEdJkZU2zWth5wym/giphy.gif" width="25px">  WE ARE GAMERS <img src="https://media.giphy.com/media/kxmEdJkZU2zWth5wym/giphy.gif" width="25px"> <h2>
-
-<img src="https://cdn.discordapp.com/attachments/784
