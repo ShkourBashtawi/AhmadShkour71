@@ -51,5 +51,3 @@
 <p align="left">
     <img style="width:0%" src="https://github-readme-stats.vercel.app/api?username=KINGMAN1996&show_icons=true&hide_title=true&theme=chartreuse-white"
 <p>
-
-<h2> <img src="https://media.giphy.com/media/kxmEdJkZU2zWth5wym/giphy.gif" width="25px">  WE ARE GAMERS <img src="https://media.giphy.com/media/kxmEdJkZU2zWth5wym/giphy.gif" width="25px"> <h2>
