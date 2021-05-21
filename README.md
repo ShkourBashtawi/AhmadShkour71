@@ -1,10 +1,3 @@
-**Languages and Tools:**  
-
-
-
-
-
-
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi , I'm Khaled <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">I’m 38 years old I’m love learning programming and discovering a world GITHUB and iam from UAE</h3>
