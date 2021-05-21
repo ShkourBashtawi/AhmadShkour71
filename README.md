@@ -36,5 +36,5 @@
 <p>
 <p>
 <p align="left">
-    <img style="width:0%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Khaled-Waqqas=anuraghazra&show_icons=true&theme=radical)"
+    <img style="width:0%" src="(https://github-readme-stats.vercel.app/api?Khaled-Waqqas=anuraghazra&show_icons=true&theme=radical)"
 <p>
