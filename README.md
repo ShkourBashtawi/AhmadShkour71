@@ -35,6 +35,5 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
 <p>
 <p>
-<p align="left">
-    <img style="width:0%" src="https://github-readme-stats.vercel.app/api?Khaled-Waqqas=anuraghazra&show_icons=true&theme=radical"
-<p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Khaled-Waqqas=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
