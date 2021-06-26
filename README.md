@@ -36,17 +36,6 @@
 <p>
 <p>
 
-<div>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi , I'm Ahmad Shkour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-    <br>
-    <div align="left">
-   Hi , I'm Ahmad Shkour, I’m 21 years old I’m love learning programming and discovering a world GITHUB and iam from JO.
-    </div>
-  </p>
-  
- 
-  </div>
-
 <details style="cursor: pointer;" open>
   <summary>Statistics</summary>
 <p align=center>
