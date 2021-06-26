@@ -33,7 +33,7 @@
 <p align=center>
 <a href="https://github.com/AhmadShkour71">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadShkour71&show_icons=true&theme=radical" alt="Statistics." />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AhmadShkour71&theme=radical" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadShkour71&layout=compact&theme=radical" alt="Statistics." />
 </a>
 </p>
 </details>
