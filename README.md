@@ -41,7 +41,7 @@
 </details>
 
 
-<details style="cursor: pointer;">
+<details style="cursor: pointer;" open>
   <summary style="margin-bottom: 3px">Contact Me</summary>
        <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center">
        <a href="https://discord.com/users/685868171755913293">Discord: ! Shkour ☭ 𝐗𝟒𝐔#9030</a>
