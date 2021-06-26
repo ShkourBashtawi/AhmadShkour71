@@ -36,4 +36,37 @@
 <p>
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadShkour71)](https://github.com/AhmadShkour71/github-readme-stats)
+<div>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi , I'm Ahmad Shkour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+    <br>
+    <div align="left">
+   Hi , I'm Ahmad Shkour, I’m 21 years old I’m love learning programming and discovering a world GITHUB and iam from JO.
+    </div>
+  </p>
+  
+ 
+  </div>
+
+<details style="cursor: pointer;" open>
+  <summary>Statistics</summary>
+<p align=center>
+<a href="https://github.com/AhmadShkour71">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadShkour71&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadShkour71&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+</a>
+</p>
+</details>
+
+
+<details style="cursor: pointer;">
+  <summary style="margin-bottom: 3px">Contact Me</summary>
+       <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center">
+       <a href="https://discord.com/users/685868171755913293">Discord: ! Shkour ☭ 𝐗𝟒𝐔#9030</a>
+  <br>
+    
+</details>
+
+
+<!-- <p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p> -->
+</div>
+
