@@ -28,7 +28,7 @@
 <code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
 </p>
 
-<h2> <img src="https://media.giphy.com/media/YSAWj6IxrmNDTY4IVM/giphy.gif" width="25px"> My stats <img src="https://media.giphy.com/media/YSAWj6IxrmNDTY4IVM/giphy.gif" width="25px"> </h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/YSAWj6IxrmNDTY4IVM/giphy.gif" width="25px"> My stats <img src="https://media.giphy.com/media/YSAWj6IxrmNDTY4IVM/giphy.gif" width="25px"> </h2>
 
 <p>
 <p align="left">
