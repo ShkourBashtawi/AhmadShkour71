@@ -28,13 +28,7 @@
 <code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
 </p>
 
-<h2 align="center"> <img src="https://media.giphy.com/media/YSAWj6IxrmNDTY4IVM/giphy.gif" width="25px"> My stats <img src="https://media.giphy.com/media/YSAWj6IxrmNDTY4IVM/giphy.gif" width="25px"> </h2>
-
-<p>
-<p align="left">
-    <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
-<p>
-<p>
+<h2 align="center"> <img src="https://media.giphy.com/media/YSAWj6IxrmNDTY4IVM/giphy.gif" width="25px"> My stats <img src="https://media.giphy.com/media/YSAWj6IxrmNDTY4IVM/giphy.gif" width="25px"> </h2
 
 <details style="cursor: pointer;" open>
   <summary>Statistics</summary>
