@@ -36,4 +36,4 @@
 <p>
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Shkour)](https://github.com/Ahmad-Shkour/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkour)](https://github.com/shkour/github-readme-stats)
