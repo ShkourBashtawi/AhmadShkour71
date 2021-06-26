@@ -49,7 +49,3 @@
     
 </details>
 
-
-<p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p>
-</div>
-
