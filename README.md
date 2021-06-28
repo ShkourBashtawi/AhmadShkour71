@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Discord Bots**
 
-- 🌱 I’m currently made X4U SYSTEM with Dashboard **https://x4uv5.herokuapp.com/** see it
+- 🌱  X4U SYSTEM with Dashboard **https://x4uv5.herokuapp.com/** see it
 
 - ⚡ Fun fact **My name is Shkour , but actually I'm KILLER.**
 
