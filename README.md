@@ -10,6 +10,7 @@
 
 - ⚡ Fun fact **My name is Shkour , but actually I'm KILLER.**
 
+- 😋 Love coding and help people ,now with probot in tanslate 😋
 
 <h2> Things I code with </h2>
 <p>
