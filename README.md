@@ -11,11 +11,13 @@
 - ⚡ Fun fact **My name is Shkour , but actually I'm KILLER.**
 
 - 😋 Love coding and help people ,now with probot in tanslate 😋
+---
 
 ### Spotify Playing 🎧  
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31pwiww2r2h7sv46wy7bp3il62se)
+---
 
 ### Things I code with 😎 
 <p>
@@ -33,6 +35,7 @@
 <code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
 <code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
 </p>
+---
 
 <details style="cursor: pointer;" open>
   <summary>Statistics</summary>
@@ -44,6 +47,7 @@
 </p>
 </details>
 
+---
 
 <details style="cursor: pointer;" open>
   <summary style="margin-bottom: 3px">Contact Me</summary>
@@ -52,5 +56,6 @@
   <br>
     
 </details>
+
 
 <img src="https://imgur.com/rilHVxA.png"/> 
