@@ -12,12 +12,12 @@
 
 - 😋 Love coding and help people ,now with probot in tanslate 😋
 
-###  <h3> Spotify Playing 🎧 </h3>
+### Spotify Playing 🎧  
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31pwiww2r2h7sv46wy7bp3il62se)
 
-### <h2> Things I code with 😎</h2>
+### Things I code with 😎 
 <p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>
