@@ -32,6 +32,7 @@
 <details style="cursor: pointer;" open>
   <summary>Statistics</summary>
 <p align=center>
+<img src="https://imgur.com/rilHVxA.png"/> 
 <a href="https://github.com/AhmadShkour71">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadShkour71&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" alt="Statistics." />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadShkour71&show_icons=true&layout=compact&langs_count=8&theme=radical" alt="Statistics." />
