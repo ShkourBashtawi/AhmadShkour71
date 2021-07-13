@@ -12,7 +12,7 @@
 
 - 😋 Love coding and help people ,now with probot in tanslate 😋
 
-###  Spotify Playing 🎧 
+###  <h3> Spotify Playing 🎧 </h3>
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31pwiww2r2h7sv46wy7bp3il62se)
 
