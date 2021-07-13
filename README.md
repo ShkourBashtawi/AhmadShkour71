@@ -12,10 +12,10 @@
 
 - 😋 Love coding and help people ,now with probot in tanslate 😋
 
-### <h2> Spotify Playing 🎧 </h2>
-<p>
+###  Spotify Playing 🎧 
+
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31zbzlualz4gpxod7apvdbt4ffk4)
-</p>
+
 ### <h2> Things I code with 😎</h2>
 <p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
