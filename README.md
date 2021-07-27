@@ -10,6 +10,7 @@
 - 🏆 X4U GAMERS [Discord Dashboard!](https://x4uv5.herokuapp.com/)
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/685868171755913293) 
 - 😄 Pronouns: He/Him
+
 [![Discord profile](https://discord.c99.nl/widget/theme-3/685868171755913293.png)](https://discord.com/users/685868171755913293)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadShkour71)
