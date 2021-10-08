@@ -12,8 +12,6 @@
 - 😄 Pronouns: He/Him
 - ❤ Contributors To : **Instatus Website** (Status Website and dashboards and Domains) & **POGY** (All In One Bot) & **ZOE** (League of Legends Bot) and more
 
-[![Discord profile](https://discord.c99.nl/widget/theme-3/685868171755913293.png)](https://discord.com/users/685868171755913293)
-
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadShkour71)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fQeGHUsb2U)
 
