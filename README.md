@@ -7,7 +7,7 @@
 ## Will iam Discord Bot Developer
 
 - 🌱 I am experienced in Discord.JS and I am currently learning HTML and CSS and Python!
-- 🏆 X4U GAMERS [Discord Dashboard!](https://x4uv5.herokuapp.com/)
+- 🏆 X4U GAMERS [Discord Server (Only Arab)!](https://discord.gg/fQeGHUsb2U)
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/685868171755913293) 
 - 😄 Pronouns: He/Him<br>
 - ❤ Contributors To :<br>
