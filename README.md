@@ -34,12 +34,6 @@
 ---
 
 
-
-
-
----
-
-
 ## Frameworks and Languages and OS and Cloud Services
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
@@ -53,12 +47,11 @@
 ## 🏆 GitHub Profile Trophy:
 <img src="https://github-profile-trophy.vercel.app/?username=AhmadShkour71&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 ---
-## Github Stats
+## 🏆 Github Stats: 
 <details style="cursor: pointer;" open>
   <summary>Statistics</summary>
 <p align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadShkour71&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" alt="Statistics." />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadShkour71&show_icons=true&layout=compact&langs_count=8&theme=radical" alt="Statistics." />
 </a>
 </p>
 </details>
