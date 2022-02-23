@@ -47,6 +47,6 @@
 ## 🏆 GitHub Profile & Github Stats:
 <img src="https://github-profile-trophy.vercel.app/?username=AhmadShkour71&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadShkour71&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" />
-
+<img src="https://activity-graph.herokuapp.com/graph?username=AhmadShkour71&theme=github"/>
 ---
 <img src="https://imgur.com/rilHVxA.png"/> 
