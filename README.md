@@ -25,8 +25,7 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/685868171755913293)](https://discord.com/users/685868171755913293)
+ <img src="https://lanyard-profile-readme.vercel.app/api/685868171755913293" height="280">
 ---
 
 <!--START_SECTION:waka-->
