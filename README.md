@@ -34,7 +34,7 @@
 ---
 
 
-## Frameworks and Languages and OS and Cloud Services
+## Frameworks & Languages & OS & Cloud Services
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
@@ -44,16 +44,9 @@
 [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
 [![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com)
 
-## 🏆 GitHub Profile Trophy:
+## 🏆 GitHub Profile & Github Stats:
 <img src="https://github-profile-trophy.vercel.app/?username=AhmadShkour71&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
----
-## 🏆 Github Stats: 
-<details style="cursor: pointer;" open>
-  <summary>Statistics</summary>
-<p align=center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadShkour71&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" alt="Statistics." />
-</a>
-</p>
-</details>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadShkour71&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" />
+
 ---
 <img src="https://imgur.com/rilHVxA.png"/> 
