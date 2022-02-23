@@ -34,8 +34,7 @@
 ---
 
 
-## 🏆 GitHub Profile Trophy:
-<img src="https://github-profile-trophy.vercel.app/?username=AhmadShkour71&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+
 
 
 ---
@@ -51,13 +50,13 @@
 [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
 [![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com)
 
-
+## 🏆 GitHub Profile Trophy:
+<img src="https://github-profile-trophy.vercel.app/?username=AhmadShkour71&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 ---
 ## Github Stats
 <details style="cursor: pointer;" open>
   <summary>Statistics</summary>
 <p align=center>
-<a href="https://github.com/AhmadShkour71">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadShkour71&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" alt="Statistics." />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadShkour71&show_icons=true&layout=compact&langs_count=8&theme=radical" alt="Statistics." />
 </a>
