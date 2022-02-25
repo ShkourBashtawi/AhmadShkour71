@@ -10,6 +10,7 @@
 - 🌱 I am experienced in Discord.JS and I am currently learning HTML and CSS and Python!
 - 🏆 X4U GAMERS [Discord Server (Only Arab)!](https://discord.gg/fQeGHUsb2U)
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/685868171755913293) 
+- 🤖 Want to be Discord-Bot-Developer [Becoming A Discord Bot Developer](https://github.com/peterhanania/becoming-a-discord-bot-developer)<br>
 - 😄 Pronouns: He/Him<br>
 - ❤ Contributors To :<br>
 
