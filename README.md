@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi , I'm Ahmad Shkour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">Programmer and Backend Websites</h3>
 
-                 I’m 21 years old I’m love learning programming and discovering a world Github and iam from Jordan
+        I’m 21 years old I’m love learning programming and discovering a world Github and iam from Jordan
 * 🌍  I'm based in Irbid/Jordan
 * ✉️  You can contact me at [shkour71@gmail.com](mailto:shkour71@gmail.com)
 * 🧠  I'm learning CSS , HTML and Python
