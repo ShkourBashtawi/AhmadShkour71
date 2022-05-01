@@ -2,14 +2,14 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi , I'm Ahmad Shkour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">Programmer and Backend Websites</h3>
 
-                       I’m 21 years old I’m love learning programming and discovering a world Github and iam from Jordan
+                 I’m 21 years old I’m love learning programming and discovering a world Github and iam from Jordan
 * 🌍  I'm based in Irbid/Jordan
 * ✉️  You can contact me at [shkour71@gmail.com](mailto:shkour71@gmail.com)
 * 🧠  I'm learning CSS , HTML and Python
 * 🤝  I'm open to collaborating with : Onix , Pogy , Robert.bot , ZOE , DiscordBot-Template , and Instatus Website
  
 ## My Account Discord Status: 
- <img src="https://lanyard-profile-readme.vercel.app/api/685868171755913293" height="280">
+ <img src="https://lanyard-profile-readme.vercel.app/api/685868171755913293?borderRadius=20px&hideBadges=false" height="280">
  
 ## Skills + Socials
 <p align="left">
@@ -26,7 +26,7 @@
 ## Badges
 
 <b>My GitHub Stats</b>
-<p align="left">
+<p>
 <a href="http://www.github.com/AhmadShkour71"><img src="https://github-readme-stats.vercel.app/api?username=AhmadShkour71&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="AhmadShkour71's GitHub stats" /></a>
 <a href="http://www.github.com/AhmadShkour71"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadShkour71&stroke=3382ed&background=171717&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 </p>
