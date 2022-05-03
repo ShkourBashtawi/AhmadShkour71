@@ -6,7 +6,7 @@
 * 🌍  I'm based in Irbid/Jordan
 * ✉️  You can contact me at [shkour71@gmail.com](mailto:shkour71@gmail.com)
 * 🧠  I'm learning CSS , HTML and Python
-* 🤝  I'm open to collaborating with : Onix , Pogy , Robert.bot , ZOE , DiscordBot-Template , Rainway and Instatus Website
+* 🤝  I am a contributor to many projects, including: Onix , Pogy , Robert.bot , ZOE , DiscordBot Template , Rainway and Instatus Website
  
 ## My Account Discord Status: 
  <img src="https://lanyard-profile-readme.vercel.app/api/685868171755913293?borderRadius=20px&hideBadges=false" height="280">
