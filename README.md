@@ -6,7 +6,7 @@
 
 My name is Ahmad Shkour, a backend developer working on several projects that you can find in here! 
 ### ✉️ Data
-![Metrics](https://metrics.lecoq.io/AhmadShkour71?template=classic&isocalendar=1&languages=1&achievements=1&introduction=1&projects=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=false&achievements=false&achievements.threshold=C&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&gists=false&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Africa%2FCairo&config.twemoji=true&config.octicon=true)
+![Metrics](https://metrics.lecoq.io/AhmadShkour71?template=classic&achievements=1&isocalendar=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Africa%2FCairo)
 
 ### ✉️ Contact Me
 
