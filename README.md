@@ -5,8 +5,7 @@
  <img src="https://lanyard-profile-readme.vercel.app/api/685868171755913293?borderRadius=20px&hideBadges=false" height="280">
 
 My name is Ahmad Shkour, a backend developer working on several projects that you can find in here! 
-### ✉️ Data
-![Metrics](https://metrics.lecoq.io/AhmadShkour71?template=classic&achievements=1&isocalendar=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Africa%2FCairo)
+
 
 ### ✉️ Contact Me
 
